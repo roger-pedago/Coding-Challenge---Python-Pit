@@ -1,7 +1,7 @@
 from collections import deque
 
 BOT_NAME = "Exterminator"
-BOT_COLOR = "#1522d9"
+BOT_COLOR = "#d91515e7"
 
 MOVES = {
     "UP": (0, -1),
