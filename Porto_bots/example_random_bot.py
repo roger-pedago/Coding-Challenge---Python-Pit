@@ -10,6 +10,8 @@ MOVES = {
     "RIGHT": (1, 0),
 }
 
+ran = random.Random()
+
 
 def get_move(state):
     me = state["players"][state["you"]]
@@ -23,4 +25,4 @@ def get_move(state):
         if 0 <= nx < width and 0 <= ny < height and (nx, ny) not in walls:
             safe.append(direction)
 
-    return random.choice(safe) if safe else "UP"
+    return ran.choice(safe) if safe else "UP"
