@@ -1,0 +1,24 @@
+[20260820_182252] Example Match | players: Greedy Bot, KamikazeBot | winner: KamikazeBot | turns: 80
+[20260820_183359] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_183420] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_183609] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_183648] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_183801] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_183934] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_184015] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_184139] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_184329] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_184433] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_184534] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 6
+[20260820_184618] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 30
+[20260820_184735] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 30
+[20260820_191320] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_191357] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_191516] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_191621] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_191647] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_191651] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_191652] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_191715] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_191823] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 18
+[20260820_191835] Example Match | players: Greedy Bot, KamikazeBot | winner: Greedy Bot | turns: 30

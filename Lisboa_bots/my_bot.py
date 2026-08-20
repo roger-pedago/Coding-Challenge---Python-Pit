@@ -19,13 +19,13 @@ def get_mode(state) -> tuple[str, str]:
     walls = state["walls"]
     width, height = state["width"], state["height"]
     if abs(width - 1 - x) >= abs(0 - 1 - x):
-        x_mode = MOVES["RIGHT"]
+        x_mode = "RIGHT"
     else:
-        x_mode = MOVES["LEFT"]
+        x_mode = "LEFT"
     if abs(height - 1 - y) >= abs(0 - 1 - x):
-        y_mode = MOVES["UP"]
+        y_mode = "DOWN"
     else:
-        y_mode = MOVES["DOWN"]
+        y_mode = "UP"
     return (x_mode, y_mode)
 
 
@@ -38,21 +38,18 @@ def count_open_neighbors(pos, walls, width, height):
         if 0 <= nx < width and 0 <= ny < height and (nx, ny) not in walls:
             count += 1
 
-    
-    
-
 def get_move(state):
     global MODE
     global LAST_MOVE
     if not hasattr(get_move, "passed"):
         MODE = get_mode(state)
         get_move.passed = True
-        LAST_MOVE = MODE[1]
+        LAST_MOVE = MODE[0]
         return LAST_MOVE
-    #me = state["players"][state["you"]]
-    #x, y = me["pos"]
-    #walls = state["walls"]
-    #width, height = state["width"], state["height"]
+    me = state["players"][state["you"]]
+    x, y = me["pos"]
+    walls = state["walls"]
+    width, height = state["width"], state["height"]
     if LAST_MOVE == MODE[0]:
         LAST_MOVE = MODE[1]
         return LAST_MOVE
