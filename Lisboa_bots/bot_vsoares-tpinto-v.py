@@ -22,7 +22,7 @@ def get_mode(state) -> tuple[str, str]:
         x_mode = "RIGHT"
     else:
         x_mode = "LEFT"
-    if abs(height - 1 - y) >= abs(0 - 1 - x):
+    if abs(height - 1 - y) >= abs(0 - 1 - y):
         y_mode = "DOWN"
     else:
         y_mode = "UP"
